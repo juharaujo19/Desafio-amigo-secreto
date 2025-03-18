@@ -1,7 +1,7 @@
 # Desafio-amigo-secreto
 
 <div align="center">
-  <img src="desafio.gif" alt'presente'
+  <img src="desafio.gif" alt'Desafio imagem animada'
   width="200"/>
 </div>
 
