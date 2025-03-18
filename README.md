@@ -1,7 +1,5 @@
 # Desafio-amigo-secreto
 
-# Desafio amigo secreto concluido
-
 <div align="center">
   <img src="Presente.jpg" alt'presente'
   width="200"/>
