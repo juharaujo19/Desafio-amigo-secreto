@@ -1,7 +1,7 @@
 # Desafio-amigo-secreto
 
 <div align="center">
-  <img src="Presente.jpg" alt'presente'
+  <img src="desafio.gif" alt'presente'
   width="200"/>
 </div>
 
