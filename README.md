@@ -11,8 +11,8 @@
 ```
 
   Descrição: Desafio do amigo secreto da professora Genesys Rondon
-  Autor: Oswaldo (Lord Neco)
-  Versao: 1.2 (completo)
+  Autor: Julia Araujo
+  
 
 
 ```
@@ -31,8 +31,11 @@
 
 ---
 
+
 ```
+
 Clique abaixo para redirecionar:
+
 ```
 
 [Amigo secreto](https://lordnecoreal.github.io/Desafio-amigo-secreto-concluido/)
