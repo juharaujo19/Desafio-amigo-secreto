@@ -38,7 +38,7 @@ Clique abaixo para redirecionar:
 
 ```
 
-[Amigo secreto][(https://juharaujo19.github.io/Desafio-amigo-secreto/)]
+[Amigo secreto](https://juharaujo19.github.io/Desafio-amigo-secreto/)
 
 ---
 
