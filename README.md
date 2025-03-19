@@ -77,21 +77,19 @@ Para quem está usando celular e a tela ficar curta, abaixo está a solução:
 ---
 
 
-## 🧝‍♂️Autor:
+## 🦸‍♀️Autor:
 
-⭐️ Feito com 💜 por [Oswaldo](https://github.com/LordNecoReal)
+⭐️ Feito por [Julia](https://github.com/juharaujo19)
 
 ---
 
-## 🛠️ Programas/sites Utilizado:
+## 🛠️ Programas e sites Utilizado:
 
 ---
 
 ```
 Visual Studio Code(VSC) 
 bolt.new
-in shot
-123 apps
-img2go
+Screen to gif
 
 ```
