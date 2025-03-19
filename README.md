@@ -50,7 +50,7 @@ No gif abaixo estará ensinando todo o passo a passo para utilizar o site.
 
 ```
 <div align="center">
-  <img src="Tutorial sorteio.gif" alt'Sorteio'
+  <img src="tutorial amigo secreto pc.gif" alt'Sorteio'
   width="500"/>
 </div>
 
