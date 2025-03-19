@@ -70,7 +70,7 @@ Para quem está usando celular e a tela ficar curta, abaixo está a solução:
 
 
 <div align="center">
-  <img src="Tutorial expancao tela celular.gif" alt'Expansão mobile'
+  <img src="Tutorial amigo secreto mobile" alt'Expansão mobile'
   width="300"/>
 </div>
 
